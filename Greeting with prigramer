@@ -1,0 +1,7 @@
+#PYTHON PROGRAMING
+import datetime
+print(
+  f"Hi guys. this is Parisa Ghavidel, this is my new program, I am glad, HOPING to WIN :) "
+)
+
+print(datetime.datetime.now())
